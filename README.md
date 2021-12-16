@@ -6,4 +6,4 @@
  \__,_|\__,_|\__\___/___|_| |_| |_|_|_| |_|_|_| |_|\___|_|   
                    |_____|                                   
 ```
-Auto minifier script based on minify. Added html, js, css for default. You can modify paths for your project
+Auto minifier script based on minify. Added html, js, css by default. You can modify paths for your project
